@@ -13,3 +13,11 @@ This Project was created to aim these following objectives :
 - Exploration  **Time Series Data**.
 - Predict 28 days ahead point.
 - Create **Business Intelligence Dashboard** .given period
+---
+#### Dashboard provide:
+1. Description of over all project
+<img src="https://github.com/Asmaa-Mohy/M5-Forecasting---Accuracy-GP-iti/blob/main/data/Screenshot%202022-09-23%20004454.png">
+2. Display some plots about seles of products
+<img src="https://github.com/Asmaa-Mohy/M5-Forecasting---Accuracy-GP-iti/blob/main/data/Screenshot%202022-09-23%20004640.png">
+3. Forecast seles of each product for 28 days.
+<img src="https://github.com/Asmaa-Mohy/M5-Forecasting---Accuracy-GP-iti/blob/main/data/Screenshot%202022-09-23%20004958.png">
